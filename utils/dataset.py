@@ -25,6 +25,10 @@ DATASETS_CONFIG = {
         'img': 'subset_hyper_Chikusei.tif', 
         'gt': 'Rasterized_chikusei_GT.tif'
     },
+    'enmap': {
+        'img': 'enmap_petaling.tif'
+        'gt': 'Rasterized_GT_enmap_petaling.tif'
+    },
     'my_project': {
         'img': 'data.tif', 
         'gt': 'labels.tif'
